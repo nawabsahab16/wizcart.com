@@ -1,6 +1,6 @@
 .hero {
     height: 100vh;
-    background: linear-gradient(180def, #fde1ff, #e1ffea22 60%);
+    background: linear-gradient(180deg, #e3a5e8, #235b3422 60%);
     display: flex;
 }
 
@@ -50,6 +50,12 @@
     font-size: 22px;
     font-weight: 500;
     cursor: pointer;
-    
 
+}
+
+.hero-right {
+    flex: 1;
+    display :flex;
+    align-items: center;
+    justify-content: center;
 }
