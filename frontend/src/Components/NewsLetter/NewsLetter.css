@@ -15,10 +15,12 @@
 .newsletter h1{
     color: #454545;
     font-size: 55px;
-    font-weight: 600;
+    font-weight: 600;  
 }
 
 .newsletter p{
+
+    
     color: #454545;
     font-size: 20px;
 }
