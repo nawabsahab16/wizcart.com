@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
-    height: 90vh;
+    gap: 20px;
+    height: 220vh;
 }
 
 .relatedproducts h1 {
@@ -14,13 +14,13 @@
 
 .relatedproducts hr{
     width: 200px;
-    height: 6px;
+    height: 15px;
     border-radius: 10px;
     background: #252525;
 }
 
 .relatedproducts-items {
-    margin-top: 50px;
+    margin-top: 15px;
     display: flex;
-    gap: 30px;
+    gap: 10px;
 }
