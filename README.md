@@ -14,5 +14,5 @@ sorting features to enhance the shopping experience, enabling users to efficient
 ![Screenshot (363)](https://github.com/nawabsahab16/wizcart.com/assets/117763400/12aab94c-2f34-4039-b2e9-a8bea9a17b47)
 ![Screenshot (362)](https://github.com/nawabsahab16/wizcart.com/assets/117763400/4ae2e4be-808d-427f-8fb5-891988d83c13)
 ![Screenshot (361)](https://github.com/nawabsahab16/wizcart.com/assets/117763400/c954a30b-4b6a-42f6-b052-814872ad3565)
-![Screenshot (360)](https://github.com/nawabsahab16/wizcart.com/assets/117763400/0db4f42d-9722-4c4e-993a-beecdc58d6c6)
+
 
